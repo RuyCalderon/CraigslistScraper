@@ -66,7 +66,7 @@ class Scraper:
 		self.MaxListingAge = datetime.timedelta(days=MaxListingAge)
 
 	def RefillKeywords(self, Keywords):
-		self.SearchKeywords = keywords
+		self.SearchKeywords = Keywords
 
 	def ScrapeCity(self, Index):
 		self.Listings = []
