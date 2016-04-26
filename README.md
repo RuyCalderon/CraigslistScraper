@@ -9,4 +9,4 @@ instance in the .Listings field and can be output to file with the .OutputListin
 *Note: Each time a city is scraped, the internal listings field is cleared, so in between each city, be sure to handle the
 data in the manner you see fit to ensure it is not lost.
 
-Available under MIT license, free for anyone to use, in any way they deem fit. 
+Available under MIT license, free for anyone to use.
